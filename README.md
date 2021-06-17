@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center"></h3>
 </p>
 
 <!-- TABLE OF CONTENTS -->
